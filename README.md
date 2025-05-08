@@ -2,10 +2,6 @@
 
 A simple real-time chat web application built with Node.js, Express, and Socket.io. Users can join a chat room and send messages to each other instantly.
 
-## Live Demo
-
-👉 [Check out the live app here](https://chathub-e68o.onrender.com/)
-
 ## Features
 
 - Real-time messaging using WebSockets (Socket.io)
@@ -32,7 +28,7 @@ A simple real-time chat web application built with Node.js, Express, and Socket.
   - `users.js` – Track users joining/leaving
   - `messages.js` – Format chat messages
 
-## 🛠️ Getting Started Locally
+## Getting Started Locally
 
 ```bash
 # Clone the repository
@@ -45,3 +41,10 @@ npm install
 # Run the server
 node server.js
 ```
+
+## Live Demo
+
+👉 [Check out the live app here](https://chathub-e68o.onrender.com/)
+
+![Demo](/public//images//demo1.png)
+![Demo 2  ](/public//images//demo2.png)
